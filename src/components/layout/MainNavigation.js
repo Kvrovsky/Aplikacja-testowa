@@ -5,7 +5,7 @@ import classes from './MainNavigation.module.css';
 function MainNavigation() {
   return (
     <header className={classes.header}>
-      <div className={classes.logo}>Wszystkie ogłoszenia</div>
+      <div className={classes.logo}>Ogłoszenia pracy</div>
       <nav>
         <ul>
           <li>

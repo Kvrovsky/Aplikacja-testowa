@@ -4,9 +4,10 @@
 }
 
 body {
-  font-family: sans-serif;
+  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Roboto Mono', monospace;
   margin: 0rem;
-  background-color: #dfdfdf;
+  background-color: #FBFEF9;
 }
 
 h1, h2 {
@@ -14,13 +15,14 @@ h1, h2 {
 }
 
 .btn {
+  
   font: inherit;
   padding: 0.5rem 1.5rem;
   cursor: pointer;
   border-radius: 4px;
   background-color: #800040;
   color: white;
-  border: 1px solid #800040;
+  border: 3px solid #ffffff;
   margin: 0 1rem;
 }
 

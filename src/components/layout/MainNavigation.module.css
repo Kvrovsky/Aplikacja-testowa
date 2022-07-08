@@ -4,13 +4,13 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: #77002e;
+    background-color: #63ADF2;
     padding: 0 10%;
   }
   
   .logo {
     font-size: 2rem;
-    color: white;
+    color: #FBFEF9;
     font-weight: bold;
   }
   
@@ -29,13 +29,17 @@
   .header a {
     text-decoration: none;
     font-size: 1.5rem;
-    color: #fcb8d2;
+    color: #FBFEF9;
+   
   }
+  
   
   .header a:hover,
   .header a:active,
   .header a.active {
-    color: white;
+    color: rgb(0, 0, 0);
+    transition: 0.5s;
+    
   }
   
   .badge {
