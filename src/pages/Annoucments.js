@@ -1,5 +1,5 @@
 import AnnoucmentList from "../components/annoucments/annoucmentList";
-import Card from "../components/ui/card";
+
 
 
 const DUMMY_DATA = [
